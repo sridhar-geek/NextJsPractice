@@ -3,8 +3,18 @@
   flex-direction: column;
   justify-content: space-between;
   align-items: center;
-  padding: 6rem;
-  min-height: 100vh;
+  min-height: 80vh;
+}
+
+.navBar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px 0px
+}
+
+.rightBox a{
+  margin-left: 10px;
 }
 
 .description {

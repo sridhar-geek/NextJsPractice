@@ -1,0 +1,13 @@
+.main {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  min-height: 80vh;
+}
+
+.navBar {
+display: flex;
+justify-content: center;
+  font-size: 1.3rem;
+}
